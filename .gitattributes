@@ -1,0 +1,15 @@
+papers.csv filter=lfs diff=lfs merge=lfs -text
+hierarquia.csv filter=lfs diff=lfs merge=lfs -text
+paper_authors.csv filter=lfs diff=lfs merge=lfs -text
+teste.csv filter=lfs diff=lfs merge=lfs -text
+authors.csv filter=lfs diff=lfs merge=lfs -text
+constituicao_topicos.csv filter=lfs diff=lfs merge=lfs -text
+data.csv filter=lfs diff=lfs merge=lfs -text
+data_fixed.csv filter=lfs diff=lfs merge=lfs -text
+finalized_data.csv filter=lfs diff=lfs merge=lfs -text
+dados.csv filter=lfs diff=lfs merge=lfs -text
+data_full.csv filter=lfs diff=lfs merge=lfs -text
+data_full_fixed.csv filter=lfs diff=lfs merge=lfs -text
+document_topics.csv filter=lfs diff=lfs merge=lfs -text
+hierarquia2.csv filter=lfs diff=lfs merge=lfs -text
+tokyo_2020_tweets.csv filter=lfs diff=lfs merge=lfs -text
